@@ -33,6 +33,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Habits é destinado para auxiliar a mapear hábitos.
 
+- [Visite o projeto online](https://pablovsdafonseca.github.io/NLW-Setup/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/2CJGnw4RRDSjKbB0bEumoK/Habits-(e)-(Community)?node-id=75%3A128&t=NudQ7AEO7BM9NujQ-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
